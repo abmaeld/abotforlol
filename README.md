@@ -23,7 +23,6 @@ My bot does not use any third party software or illegal tools in its constructio
 
 ![History](https://cdn-images-1.medium.com/max/1000/1*ymt9VonjX2PGnJTqkGCaXA.png)
 
-Aqui vai um vídeo do bot operando /Here is a video of it's operation:
-[![abotforlol](https://img.youtube.com/vi/cycBLppQn_s/0.jpg)](https://www.youtube.com/watch?v=yFwIH2GF7Ak)
+[![abotforlol](https://img.youtube.com/vi/yFwIH2GF7Ak/0.jpg)](https://www.youtube.com/watch?v=yFwIH2GF7Ak)
 
 [Link to full article](https://medium.com/@abmaeld/um-a-bot-para-for-league-of-legends-6f5623972493).
