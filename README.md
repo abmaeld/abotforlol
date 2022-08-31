@@ -1,8 +1,8 @@
 # Um (a) bot para (for) League of Legends
 
-aviso: Esse bot é um projeto de programação que fiz por conta própria, nunca lucrei nem irei lucrar com isso. Não vou postar ou commitar esse código de forma alguma. Além de ser uma ser uma provável violação do TOS, me causaria problema =). Esta é apenas a documentação de um projeto paralelo que pensei que valeria a pena.
+aviso: Esse bot é um projeto de programação que fiz por conta própria, nunca lucrei nem irei lucrar com isso.  Esta é apenas a documentação de um projeto paralelo que pensei que valeria a pena.
 
-disclaimer: This bot is a fun programming project, i never made profit of it and never will. Also, i will not post or commit the bot code no matter what. This is just the documentation of a sideproject i thought it was worthy.
+disclaimer: This bot is a fun programming project, i never made profit of it and never will. This is just the documentation of a sideproject i thought it was worthy.
 
 ## description
 
