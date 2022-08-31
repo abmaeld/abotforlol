@@ -1,0 +1,7 @@
+pyautogui
+wheel
+psutil
+pywin32
+keyboard
+pillow
+opencv-python
